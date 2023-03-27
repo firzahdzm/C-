@@ -1,7 +1,3 @@
-//Firza Hadzami
-//122140147
-//RC
-
 #include <iostream>
 #include <stdlib.h>
 using namespace std;
